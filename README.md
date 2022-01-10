@@ -20,6 +20,9 @@ this is a summary to the [CSS Layouts: From Float to Flexbox and Grid](https://w
 
 ### The challenge
 
+- have a thorough knowledge of the handling of items and containers
+- put into practice the knowledge already acquired in float, flexbox and grid
+
 Users should be able to:
 
 - Get better 
