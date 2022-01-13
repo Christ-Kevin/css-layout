@@ -73,6 +73,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 </main>
 ```
 ```css
+#####Float
 .proud-of-these-css {
    aside {
         width: 25%;
@@ -80,6 +81,19 @@ Then crop/optimize/edit your image however you like, add it to your project, and
         /* so that the item can go on the right side */
         float: right;
     }
+    
+#####Flexbox
+    .container {
+    color: white;
+    font-family: helvetica, arial, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+}
+header {
+    background: skyblue;
+    order: 1;
+    flex: 1 0 100%;
+}
 }
 ```
 set max-width for flexibility
